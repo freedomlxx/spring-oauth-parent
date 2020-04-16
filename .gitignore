@@ -1,0 +1,17 @@
+target
+.project
+.settings
+.classpath
+nbactions.xml
+nb-configuration.xml
+.DS_Store
+.metadata
+.recommenders
+#忽略根目录下的state文件夹
+/state
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*~
